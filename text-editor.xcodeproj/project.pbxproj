@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E1B795412C9EA0DF00B69F32 /* CustomButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1B795402C9EA0DF00B69F32 /* CustomButtonView.swift */; };
 		E1D617A62C99BFBD00F63DC1 /* text_editorApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1D617A52C99BFBD00F63DC1 /* text_editorApp.swift */; };
 		E1D617A82C99BFBD00F63DC1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1D617A72C99BFBD00F63DC1 /* ContentView.swift */; };
 		E1D617AA2C99BFBD00F63DC1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1D617A92C99BFBD00F63DC1 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E1B795402C9EA0DF00B69F32 /* CustomButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButtonView.swift; sourceTree = "<group>"; };
 		E1D617A22C99BFBD00F63DC1 /* text-editor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "text-editor.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1D617A52C99BFBD00F63DC1 /* text_editorApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = text_editorApp.swift; sourceTree = "<group>"; };
 		E1D617A72C99BFBD00F63DC1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				E1D617A52C99BFBD00F63DC1 /* text_editorApp.swift */,
 				E1D617A72C99BFBD00F63DC1 /* ContentView.swift */,
+				E1B795402C9EA0DF00B69F32 /* CustomButtonView.swift */,
 				E1D617A92C99BFBD00F63DC1 /* Assets.xcassets */,
 				E1D617AB2C99BFBD00F63DC1 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E1B795412C9EA0DF00B69F32 /* CustomButtonView.swift in Sources */,
 				E1D617A82C99BFBD00F63DC1 /* ContentView.swift in Sources */,
 				E1D617A62C99BFBD00F63DC1 /* text_editorApp.swift in Sources */,
 			);
